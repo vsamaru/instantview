@@ -12,6 +12,7 @@
     "test": "npm run unit && npm run e2e"
   },
   "dependencies": {
+    "@vue/babel-preset-app": "4.5.12",
     "browser-request": "^0.3.3",
     "clipboard-js": "^0.3.3",
     "cors": "^2.8.4",
